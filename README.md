@@ -1,4 +1,4 @@
-# Danah Altwijri – Software Engineering Portfolio
+# Danah Altwijri – Full-Stack Development
 
 Welcome to my personal portfolio website.
 
