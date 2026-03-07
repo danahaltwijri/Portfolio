@@ -75,7 +75,7 @@ Soft Skills:
 ## 📫 Contact
 
 LinkedIn  
-https://www.linkedin.com/in/danah-altwijri
+](https://www.linkedin.com/in/danah-altwijri-9b53bb21a/)
 
 GitHub  
 https://github.com/danahaltwijri
