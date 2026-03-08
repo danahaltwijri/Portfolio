@@ -63,7 +63,7 @@ const projects = [
         year: '2026',
         description: 'Built a productivity app using Flutter with modern UI/UX, animations, and responsive design. Implemented error tracking, favorites, and search with reusable components in Dart.',
         fullDescription: 'A comprehensive Flutter-based debugging assistant designed to streamline developer workflow. This application helps developers track, categorize, and resolve programming errors efficiently with a focus on productivity and user experience.',
-        image: "d1.png",
+        image: "d5.png",
        additionalImages: [
 "d1.png",
 "d2.png",
@@ -377,3 +377,4 @@ window.addEventListener('beforeunload', () => {
         window.speechSynthesis.cancel();
     }
 });
+
