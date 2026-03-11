@@ -52,7 +52,6 @@ const projects = [
             'Responsive design across different screen sizes',
             'Error handling and loading states'
         ],
-        github: 'https://github.com/danahaltwijri/Ai-Studio-app-Flutter.git',
         gradientClass: 'gradient-purple-pink',
         modalGradient: 'linear-gradient(to top, #a855f7, #ec4899)'
     },
@@ -81,7 +80,6 @@ const projects = [
             'Modern animations and transitions',
             'Responsive design for tablets and phones',
         ],
-        github: 'https://github.com/danahaltwijri/debugging-app.git',
         gradientClass: 'gradient-blue-cyan',
         modalGradient: 'linear-gradient(to top, #3b82f6, #06b6d4)'
     },
@@ -377,4 +375,5 @@ window.addEventListener('beforeunload', () => {
         window.speechSynthesis.cancel();
     }
 });
+
 
